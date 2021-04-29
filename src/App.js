@@ -25,15 +25,6 @@ function App() {//must start with capital letter and can be an arrow function.
         <Route exact path = '/' component={Home}/>
         <Route exact path = '/projects' component={Projects}/>
         <Footer/>
-        {/* <Home/> */}
-        {/* <h1>{title}</h1> */}
-        {/* <p>Liked {likes} times</p> */}
-        {/* <p>{10}</p> */}
-        {/* <p>{ "string"} </p> */}
-        {/* <p>{ [1,2,3,4,5]}</p> */}
-        {/* <p>{ Math.floor(Math.random()*11)}</p> */}
-
-        {/* <a href={urlValue}>{urlName}</a> */}
       </div>
     </div>
     </Router>
