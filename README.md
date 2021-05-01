@@ -1,3 +1,44 @@
+
+# SteveBecmpe React Portfolio
+ 
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)   
+
+  ### Table of Contents:
+  -[Description](#Description)      
+  -[Installation Instructions](#Installation)    
+  -[Usage Information](#Usage)    
+  -[Contribution guidelines](#Contributing)    
+  -[Given Instructions](#Given)
+  
+  ## Description    
+  "React Version of current porfolio. 
+  Focused mainly on basic functionality and deployment. 
+  The deployement seems to be rittled with issues across plateforms and user setting preferences. 
+  I choose to only deploy once and add the readme after. 
+  This app starts on a blank page is the result of the development process crossed with the deloyement process. 
+  Simply choosing home or projects gets the links in sink.
+  
+  ## Installation    
+  No installatin required to run deployed version.
+  
+  ## Usage    
+    Currently use and view at your own risk. 
+    
+  ## License   
+  Apache 2.0 License    
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)   
+  Hold "Ctrl" and Click the license badge and it will take you to the website.     
+  
+  
+  ## Contributing 
+    Required content from class.   
+
+  ## Questions: 
+  GitHub: https://github.com/SteveBecmpe     
+  For issues that are not covered covered here or at the GiHub repo or for more information contact me at the email address below:   
+  steveblackecmpe@gmail.com    
+  
+## Given       
 # Unit 20 React Homework: React Portfolio
 
 Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
