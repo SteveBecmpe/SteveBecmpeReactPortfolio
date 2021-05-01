@@ -14,7 +14,7 @@
   "React Version of current portfolio. 
   Focused mainly on basic functionality and deployment. 
   The deployment seems to be plagued with issues across platforms and user setting preferences. 
-  I choose to only deploy once and add the readme after. 
+  I chose to only deploy once and add the readme after. 
   This app starts on a blank page. Which is unintended and the result of the development process crossed with the deployment process. 
   Simply choosing home or projects gets the links in sink.
   
