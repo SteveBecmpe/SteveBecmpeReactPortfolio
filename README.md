@@ -11,15 +11,15 @@
   -[Given Instructions](#Given)
   
   ## Description    
-  "React Version of current porfolio. 
+  "React Version of current portfolio. 
   Focused mainly on basic functionality and deployment. 
-  The deployement seems to be rittled with issues across plateforms and user setting preferences. 
+  The deployment seems to be plagued with issues across platforms and user setting preferences. 
   I choose to only deploy once and add the readme after. 
-  This app starts on a blank page is the result of the development process crossed with the deloyement process. 
+  This app starts on a blank page. Which is unintended and the result of the development process crossed with the deployment process. 
   Simply choosing home or projects gets the links in sink.
   
   ## Installation    
-  No installatin required to run deployed version.
+  No installation required to run deployed version.
   
   ## Usage    
     Currently use and view at your own risk. 
@@ -35,7 +35,7 @@
 
   ## Questions: 
   GitHub: https://github.com/SteveBecmpe     
-  For issues that are not covered covered here or at the GiHub repo or for more information contact me at the email address below:   
+  For issues that are not covered here or at the GitHub repo or for more information contact me at the email address below:   
   steveblackecmpe@gmail.com    
   
 ## Given       
